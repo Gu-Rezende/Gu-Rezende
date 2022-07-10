@@ -1,7 +1,7 @@
 <!--Infos-->
 <h1>Hello World! I'm Rezende	:shield:</h1>
 
-- :man_student: Studying programming web front-end
+- 🌎 Web is the future 💙
 - :man_technologist: Studying python :point_down:
 - :black_heart: Data Science and Machine Learning :black_heart:
 - :man_scientist: Chemistry technician
